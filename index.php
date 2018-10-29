@@ -10,7 +10,7 @@
 <body>
 
 <div class="wrapper">
- <div class="item1">Project`</div>
+ <div class="item1">Project</div>
 </div>
     
 <script src="js/app.js"></script>   
